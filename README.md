@@ -1,25 +1,17 @@
-🩺 Health Risk Prediction using Machine Learning
-📌 Overview
+# 🩺 Health Risk Predictor
 
-This project predicts whether a person has High or Low health risk based on lifestyle and physical attributes using Machine Learning.
-It demonstrates a complete ML pipeline including data preprocessing, feature engineering, model building, hyperparameter tuning, and model comparison.
+## 📌 Overview
+Machine learning project to predict **High** or **Low health risk** using lifestyle and physical attributes. 
+Implements complete ML workflow including data preprocessing, feature engineering, model building, and evaluation.
 
-🎯 Objectives
+## 🛠 Tech Stack
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Google Colab
 
-Analyze health and lifestyle data
+## 🤖 Models Used
+Logistic Regression, SVM, KNN, Decision Tree, Random Forest, Gradient Boosting
 
-Handle missing values and outliers
+## 📈 Best Result
+Gradient Boosting achieved the highest accuracy (~87%).
 
-Encode categorical features
-
-Train and compare multiple ML models
-
-Select the best-performing model
-
-📊 Dataset
-
-Records: 5000
-
-Initial Features: 12
-
-Target Variable: health_risk (High / Low)
+## 👤 Author
+Rushikesh Namdev Autade
